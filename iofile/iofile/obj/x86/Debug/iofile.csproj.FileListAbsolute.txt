@@ -1,0 +1,5 @@
+/home/jeff/Documentos/Monodevelop/iofile/iofile/bin/Debug/iofile.exe
+/home/jeff/Documentos/Monodevelop/iofile/iofile/bin/Debug/iofile.pdb
+/home/jeff/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/iofile.csproj.CoreCompileInputs.cache
+/home/jeff/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/iofile.exe
+/home/jeff/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/iofile.pdb

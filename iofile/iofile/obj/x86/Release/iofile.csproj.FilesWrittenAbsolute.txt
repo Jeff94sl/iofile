@@ -1,0 +1,5 @@
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/bin/Release/iofile.exe.mdb
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/bin/Release/iofile.exe
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/obj/x86/Release/iofile.exe
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/obj/x86/Release/iofile.exe.mdb

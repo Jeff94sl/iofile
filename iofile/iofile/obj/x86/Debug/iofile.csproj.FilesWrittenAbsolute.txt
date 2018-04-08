@@ -1,0 +1,12 @@
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/bin/Debug/iofile.exe.mdb
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/bin/Debug/iofile.exe
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/iofile.exe
+/home/jeffryn/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/iofile.exe.mdb
+/home/jeff/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jeff/Documentos/Monodevelop/iofile/iofile/bin/Debug/iofile.exe.mdb
+/home/jeff/Documentos/Monodevelop/iofile/iofile/bin/Debug/iofile.exe
+/home/jeff/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/iofile.exe
+/home/jeff/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/iofile.exe.mdb
+/home/jeff/Documentos/Monodevelop/iofile/iofile/bin/Debug/iofile.pdb
+/home/jeff/Documentos/Monodevelop/iofile/iofile/obj/x86/Debug/iofile.pdb
